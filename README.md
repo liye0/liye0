@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @liye0
 - 👀 I’m interested in cyber security
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently learning git 
 
 - 📫 How to reach me ...
 
